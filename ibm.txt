@@ -1,0 +1,13 @@
+Application Name: 
+Ibmtitanic.R
+
+Application credentials: 
+vijchirag.samrat10@gmail.com kingjet1234
+
+Application path:
+not able to upload on bluemix
+
+New Features Added:names,attributes,str,prop.table,rep, write.csv,aggregate, rpart, plot, text,pro,rbind, as.characte, strsplit, sapply, sub, factor, rbind, etc.. 
+
+CHALLENGES Faced:
+feature engineering, decision trees and installing a few packages of graphics..
